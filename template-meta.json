@@ -1,0 +1,8 @@
+{
+  "name": "Paperclip | Open-Source Control Plane for AI Agent Teams",
+  "short_name": "Paperclip Production",
+  "description": "Run a company of AI agents: org chart, goals, budgets, approvals. Postgres.",
+  "category": "AI/ML",
+  "image": "https://raw.githubusercontent.com/nomideusz/paperclip-railway/main/icon.png",
+  "deploy_marker": "nomideusz/paperclip-railway"
+}
