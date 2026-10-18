@@ -65,7 +65,7 @@ You can also store keys per company in Paperclip's secrets and attach them to in
 - Database backups are written every hour to the Paperclip volume and kept for 7 days. Change that under Instance settings. Railway's volume backups are another option.
 - `BETTER_AUTH_SECRET` signs sessions and agent tokens. Changing it signs everyone out and invalidates agent keys.
 
-**Memory.** Measured on Railway with no agents running: Paperclip idles at about MEM_APP and Postgres at about MEM_PG.
+**Memory.** Measured on Railway with no agents running: Paperclip idles at about 1 GB and Postgres at about 340 MB, so plan for about 1.4 GB in total (Hobby plan or above).
 
 ## Why Deploy Paperclip on Railway?
 
