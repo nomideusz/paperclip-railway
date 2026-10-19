@@ -36,7 +36,7 @@ Paperclip's Docker setup is built for a private network: the first visitor claim
 
 - [Paperclip documentation](https://docs.paperclip.ing)
 - [Paperclip on GitHub](https://github.com/paperclipai/paperclip)
-- [Template source on GitHub](https://github.com/nomideusz/paperclip-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/paperclip)
 
 ### Implementation Details
 

@@ -2,7 +2,7 @@
  "buckets": {},
  "services": {
   "40ce216b-8cc6-4372-a4b9-4df7030b0353": {
-   "icon": "https://raw.githubusercontent.com/nomideusz/paperclip-railway/main/icon.png",
+   "icon": "https://raw.githubusercontent.com/two-workspaces/paperclip/main/icon.png",
    "name": "Paperclip",
    "build": {
     "dockerfilePath": "Dockerfile"
@@ -15,7 +15,7 @@
     "restartPolicyMaxRetries": 10
    },
    "source": {
-    "repo": "https://github.com/nomideusz/paperclip-railway",
+    "repo": "https://github.com/two-workspaces/paperclip",
     "rootDirectory": null
    },
    "networking": {
